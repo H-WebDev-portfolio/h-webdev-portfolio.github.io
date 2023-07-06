@@ -4,12 +4,6 @@ const proyectos = [
     titulo: 'E-Commerce',
     url: '/proyectos/h-e-commerce',
     imagen: '/img/e-commerce.png'
-},
-
-{
-    titulo: 'Gestor de Finanzas',
-    url: '/proyectos/h-easymoney',
-    imagen: '/img/e-commerce.png'
 }
 ];
 const gridProyectos = document.querySelector('.grid-proyectos');
